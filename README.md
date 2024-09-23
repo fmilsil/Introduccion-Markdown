@@ -12,4 +12,6 @@ ejercicios basicos sobre markdown
  La palabra **Negrita** esta en negrita.
 
  La palabra *Curisva* está en cursiva.
- 
+
+ # Resaltar un comando
+ El comando `ls -la` sera resaltado.
