@@ -62,3 +62,41 @@ Enlaces a las páginas web del [IES Celia Vñas][1] y a [GitHub][2]
 
 ![](https://upload.wikimedia.org/wikipedia/en/0/03/Walter_White_S5B.png)
 
+# Listas
+# Listas desordenadas
+
+* Item 1
+* Item 2
+* Item 3
+* Item 4
+
+# Listas desordenadas anidadas
+
+* Item 1
+    * Item 1.1
+    * Item 1.2
+* Item 2
+    * Item 2.1
+    * Item 2.2
+* Item 3
+
+* Item 4
+
+# Listas ordenadas
+
+1. Item 1
+2. Item 2
+3. Item 3
+4. Item 4
+
+# Listas ordenadas anidadas
+
+1. Item 1
+    1.1 Item 1.1
+    1.2 Item 1.2
+2. Item 2
+    2.1 Item 2.1
+    2.2 Item 2.2
+3. Item 3
+4. Item 4
+
