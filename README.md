@@ -15,3 +15,35 @@ ejercicios basicos sobre markdown
 
  # Resaltar un comando
  El comando `ls -la` sera resaltado.
+
+ # Bloques de código
+ 
+```
+sudo systemctl start apache2
+```
+
+```
+bash
+#!/bin/bash
+echo "Hola mundo"
+```
+
+```
+python
+celsius = float(input('Introduce una temperatura en grados Celsius: '))
+farenheit = (1.8 * celsius) + 32
+print(f'La temperatura en grados Farenheit es: {farenheit}')
+```
+
+```
+yaml
+version: '3'
+
+services: 
+  apache:
+    build: ./apache
+    ports: 
+      - 80:80
+    volumes:
+      - ./src:/var/www/html
+```
