@@ -47,3 +47,14 @@ services:
     volumes:
       - ./src:/var/www/html
 ```
+# Enlaces
+
+[Enlace hacia la página del IES Celia Viñas](https://iescelia.org)
+
+# Otra forma de gestionar enlaces
+
+Enlaces a las páginas web del [IES Celia Vñas][1] y a [GitHub][2]
+
+[1]: https://iescelia.org
+[2]: https://github.com
+
