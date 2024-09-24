@@ -126,4 +126,4 @@ Párrafo 2.
 
 # Nueva imagen añadida al documento
 
-![](/home/diurno/Introduccion-Markdown/imagen/vas a caer.jpg)
+![](/home/diurno/Introduccion-Markdown/imagen/vas a caer.png)
