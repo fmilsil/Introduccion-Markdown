@@ -123,11 +123,3 @@ Párrafo 1.
 <!- Este texto es un comentario y no será renderizado -->
 
 Párrafo 2.
-
-# Nueva imagen añadida al documento
-
-![](imagen/gege.png)
-
-# Documento Markdown
-
-[Este es un enlace hacia el documento Markdown](Markdown)
