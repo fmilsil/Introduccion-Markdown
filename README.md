@@ -110,3 +110,8 @@ Enlaces a las páginas web del [IES Celia Vñas][1] y a [GitHub][2]
 
 Por ejemplo, en esta frase  
 hemos forzado un salto de línea.
+
+# Citar textos
+
+Este texto no es una cita.
+> Este texto daría como resultado una cita.
