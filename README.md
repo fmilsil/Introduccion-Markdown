@@ -106,3 +106,7 @@ Enlaces a las páginas web del [IES Celia Vñas][1] y a [GitHub][2]
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
+# Forzar un salto de línea
+
+Por ejemplo, en esta frase  
+hemos forzado un salto de línea.
