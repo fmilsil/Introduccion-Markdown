@@ -126,4 +126,4 @@ Párrafo 2.
 
 # Nueva imagen añadida al documento
 
-![](imagen/vas a caer.png)
+![](imagen/gege.png)
