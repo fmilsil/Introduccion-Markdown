@@ -120,7 +120,7 @@ Este texto no es una cita.
 
 Párrafo 1.
 
-<!- Este texto es un comentario y no será renderizado -->
+<!-- Este texto es un comentario y no será renderizado -->
 
 Párrafo 2.
 
