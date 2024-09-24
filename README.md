@@ -115,3 +115,13 @@ hemos forzado un salto de línea.
 
 Este texto no es una cita.
 > Este texto daría como resultado una cita.
+
+# Comentarios
+
+Párrafo 1.
+
+ <!- Este texto es un comentario y no será renderizado -->
+
+Párrafo 2.
+
+
